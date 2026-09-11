@@ -1,17 +1,7 @@
 # flutter_wot_ui_demo
 
-A new Flutter project.
+flutter_wot_ui组件库：<https://gitee.com/miaoaa66/flutter_wot_ui>
+此组件库仅测试和构建了web端和android端，其他平台未测试。
+组件库也没有进行所有组件所有属性的完整测试。
+引入组件库步骤参考提交记录。
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
