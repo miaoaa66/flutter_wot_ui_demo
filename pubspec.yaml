@@ -38,7 +38,7 @@ dependencies:
   flutter_wot_ui:
     git:
       url: https://gitee.com/miaoaa66/flutter_wot_ui.git
-      ref: master        # 可选：指定分支/tag/commit
+      ref: master
 
 dev_dependencies:
   flutter_test:
