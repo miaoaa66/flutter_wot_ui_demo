@@ -35,6 +35,11 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
 
+  flutter_wot_ui:
+    git:
+      url: https://gitee.com/miaoaa66/flutter_wot_ui.git
+      ref: master        # 可选：指定分支/tag/commit
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
